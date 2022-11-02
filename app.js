@@ -16,7 +16,7 @@ for (const placeholder of placeholders) {
 
 function dragstart(e) {
   e.target.classList.add('hold');
-  setTimeout(() => e.target.classList.add('hide'), 0);q
+  setTimeout(() => e.target.classList.add('hide'), 0);
 }
 
 function dragover(e) {
