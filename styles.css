@@ -61,7 +61,7 @@ body {
 }
 
 .done {
-  background: linear-gradient(90deg, #fdfab0 0%, #ffdff4 100%);
+  background: linear-gradient(90deg, #112ab0 0%, #112ff4 100%);
 }
 .hide {
   display: none;
